@@ -1,5 +1,5 @@
 class roles::gitserver {
 
-include profile::gitserver
+include profiles::gitserver
 
 }
