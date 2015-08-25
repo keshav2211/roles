@@ -1,5 +1,5 @@
 class roles::webdbserver {
 
-include profiles::webdbserver
-include profiles::website
+include profiles::lamsetup
+include profiles::websites
 }
